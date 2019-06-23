@@ -1,2 +1,2 @@
 # c9
-Provide a *free* development environment via AWS Cloud9.
+Provide a __free__ development environment via AWS Cloud9 and GCE.
